@@ -10,13 +10,13 @@
 - Phone: +34 625 59 44 83
 
 <span>
-	<a href="https://www.linkedin.com/in/antonio-sala-barbosa/" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
+	<a href="https://www.linkedin.com/in/antonio-sala-barbosa/" target="_blank" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
 		<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50px" height="50px" />
 	</a>
-	<a href="https://www.instagram.com/antoniosalabarbosa/" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
+	<a href="https://www.instagram.com/antoniosalabarbosa/" target="_blank" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px" height="50px" />
 	</a>
-	<a href="https://api.whatsapp.com/send/?phone=625594483" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
+	<a href="https://api.whatsapp.com/send/?phone=625594483" target="_blank" style="margin: 0px 10px; padding: 10px 30px; color: #fff; background-color: #222; text-decoration: none;">
 		<img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="50px" height="50px" />
 	</a>
 </span>
